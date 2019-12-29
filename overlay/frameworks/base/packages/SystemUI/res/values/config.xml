@@ -29,4 +29,6 @@
 
     <!-- Max visible status icons -->
     <integer name="config_maxVisibleStatusIcons">3</integer>
+
+    <dimen name="rounded_corner_content_padding">28.0px</dimen>
 </resources>
