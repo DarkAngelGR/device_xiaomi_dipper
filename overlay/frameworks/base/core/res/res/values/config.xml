@@ -728,4 +728,7 @@
         <item>02-cool:dynamic</item>
         <item>srgb_d65:srgb</item>
     </string-array>
+
+    <!-- Whether device supports double tap to wake -->
+    <bool name="config_supportDoubleTapWake">true</bool>
 </resources>
